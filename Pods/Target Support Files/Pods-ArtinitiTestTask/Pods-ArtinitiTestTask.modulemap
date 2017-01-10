@@ -1,0 +1,6 @@
+framework module Pods_ArtinitiTestTask {
+  umbrella header "Pods-ArtinitiTestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
